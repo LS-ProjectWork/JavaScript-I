@@ -73,6 +73,16 @@ console.log(intern5.gender)
 
 // Antonietta loves math, give her the ability to multiply two numbers together and return the product. Use the console.log provided as a hint.
 //console.log(antonietta.multiplyNums(3,4));
+const kennan = {'id': 2,
+  name: 'Kennan',
+  email: 'kdiben1@tinypic.com',
+  gender: 'M',
+  speak: function () {
+  return 'Hello, my name is Kennan'}
+}
+
+console.log(kennan.speak())
+
 
 // === Great work! === Head over to the the arrays.js file or take a look at the stretch challenge
 

@@ -30,7 +30,7 @@ const intern2 = {'id': 2,
   'email': 'kdiben1@tinypic.com',
   'gender': 'M'}
 
-const inter3 = { 'id': 3,
+const intern3 = { 'id': 3,
   'name': 'Keven',
   'email': 'kmummery2@wikimedia.org',
   'gender': 'M',}
@@ -61,7 +61,11 @@ const intern5 = {'id': 5,
 
 // Antonietta's Gender
 
-
+console.log(intern1.name)
+console.log(intern2.id)
+console.log(intern3.email)
+console.log(intern4.name)
+console.log(intern5.gender)
 
 // ==== Challenge 3: Object Methods ==== 
 // Give Kennan the ability to say "Hello, my name is Kennan!" Use the console.log provided as a hint.
